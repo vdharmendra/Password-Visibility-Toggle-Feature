@@ -1,0 +1,41 @@
+/* RESET DEFAULT CSS */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+/* BODY */
+body{
+    background: #8bc34a36;
+}
+
+.inputContainer{
+    background: #fff;
+    width: 90%;
+    max-width: 500px;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin: 300px auto;
+    display: flex;
+    align-items: center;
+}
+.inputContainer input{
+    width: 100%;
+    padding: 10px 0;
+    border: 0;
+    outline: 0;
+    font-size: 24px;
+    color: #555;
+}
+.inputContainer i{
+    font-size: 28px;
+    cursor: pointer;
+    color: #555;
+}
+.inputContainer i.bi-eye-slash{
+    color: green;
+}
+.inputContainer i.bi-eye{
+    color: red;
+}
