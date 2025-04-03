@@ -29,30 +29,30 @@ This project implements a password visibility toggle feature to enhance the user
 
 
 <br>
-<span>Desktop Desgin</span><br/>
-<a href="" target="_blank" >
+<span>Desktop Design</span><br/>
+<a href="https://www.behance.net/gallery/222880389/Password-Visibility-Toggle-Feature" target="_blank" >
 <img src="./img/passwordInputAnimation.gif" width="575px"/>
 </a>
 
 <br>
-<span>Desktop UI UX Desgin</span><br/>
-<a href="" target="_blank" >
+<span>Desktop UI UX Design</span><br/>
+<a href="https://www.behance.net/gallery/222880389/Password-Visibility-Toggle-Feature" target="_blank" >
 <img src="./img/passwordInputUIUXLayout.gif" width="575px"/>
 </a>
 <br />
-<span>Desktop Desgin ui-ux Layout</span><br/>
+<span>Desktop Design ui-ux Layout</span><br/>
 <a href="" target="_blank" >
 <img src="./img/passwordInputUIUXLayout.png" width="375px"/>
 <img src="./img/passwordTextUIUXLayout.png" width="375px"/>
 </a>
 <br />
-<span>Desktop Desgin</span><br/>
-<a href="" target="_blank" >
+<span>Desktop Design</span><br/>
+<a href="https://www.behance.net/gallery/222880389/Password-Visibility-Toggle-Feature" target="_blank" >
 <img src="./img/passwordInputAnimation.png" width="375px"/>
 <img src="./img/passwordTextAnimation.png" width="375px"/>
 </a>
 
 <span>Cover</span><br/>
-<a href="" target="_blank" >
+<a href="https://www.behance.net/gallery/222880389/Password-Visibility-Toggle-Feature" target="_blank" >
 <img src="./img/cover.png" width="575px"/>
 </a>
